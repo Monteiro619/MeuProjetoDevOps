@@ -1,6 +1,6 @@
 {
-  "name": "meuprojetodevops",
-  "version": "1.0.0",
+  "name": "meu-projeto-devops",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
